@@ -1,0 +1,23 @@
+body
+{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	margin-left: 4%;
+	font-size: 40px;
+	font-weight: 800;
+	border-bottom: 3px solid #F1F1F1;
+	width: 88%;
+	padding: 20px;
+}
+
+html{
+	background-image: url("http://webneel.com/wallpaper/sites/default/files/images/08-2013/11-sea-beach-sand-wallpaper.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+input[type=submit] {
+    width: 20em;  height: 2em;
+}
+
+
